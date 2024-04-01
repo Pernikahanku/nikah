@@ -28,7 +28,7 @@ img.rounded {
   width: 8rem;
 }
 .navbar {
-  background-color: #0d6efd;
+  background-color: #334A6B;
 }
 nav.footer {
   background-color: #343a40;
@@ -44,7 +44,7 @@ img.card-img-top {
   border-radius: 20px;
   margin-top: 10px;
   color: black;
-  background-color: #e8ebee;
+  background-color: #334A6B;
 }
 .col{
   margin-top: 20px;
@@ -87,11 +87,15 @@ img.card-img-top {
   box-shadow: 12px 12px 20px #caced1, -12px -12px 20px white;
 }
 h1.display-12.text-center {
-  padding: 3rem 0;
+  padding: 3.2rem 0;
   background-image: url(../../assets/images/ornam/Asset7a.png);
   background-repeat: no-repeat;
   background-position: top 15px center;
-  font-size: 2.5em;
+  font-size: 35px;
+  color: #fff;
+}
+h2.fs-5 {
+  color: #fff;
 }
 #mpl{
   background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);
@@ -138,7 +142,7 @@ audio {
   text-align: center;
 }
 .hero {
-  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.3)), rgba(0, 0, 0, 0.55) url("/img/galeri/slider1.jpg") no-repeat;
+  background: linear-gradient(rgba(153, 110, 109, 0.65), rgba(153, 110, 109, 0.3)), rgba(0, 0, 0, 0.55) url("/img/galeri/DSC00002.jpg") no-repeat;
   background-size: cover;
   position: relative;
   height: 100%;
